@@ -1,0 +1,7 @@
+# A .gitignore file is a plain text file that contains
+#  a list of all the specified files and folders from
+#  the project that Git should ignore and not track.
+
+/node_modules
+# as it is used for nly testing purpose
+.env
